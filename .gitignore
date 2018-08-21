@@ -1,2 +1,5 @@
 #cpp
 *.cpp
+
+#code directory
+code/
